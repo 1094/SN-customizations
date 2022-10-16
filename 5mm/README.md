@@ -1,4 +1,4 @@
-These templates were made using (Gridzzly)[https://gridzzly.com], and then edited to fit the SuperNote A6X, leaving room for the Tool bar on the left and the page bad on the top. Each template can be rotated or flipped to allow for your preffered bar placements.
+These templates were made using [Gridzzly](https://gridzzly.com), and then edited to fit the SuperNote A6X, leaving room for the Tool bar on the left and the page bad on the top. Each template can be rotated or flipped to allow for your preffered bar placements.
 
 Update
 ### 15 Oct 2022
