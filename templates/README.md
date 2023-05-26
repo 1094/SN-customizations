@@ -1,5 +1,8 @@
 # Read Me
 
+### 26 May 2023
+So, I did have to adjust the `spaced日本語` grid. But I also forgot to mention I created it in the last update. There's that one, it leaves enough space between the lines for me to add Furigana. There's also a grid with both horizontal and vertical spaced grids, I've been using this for piecing apart sentences, as well as the template with dots and horizontal grid. I also removed the pinyin tianzi template, it wasn't very clean and I'd stopped using it. And, I think that's it, open an issue if you have any questions or suggestions, I'm open to making custom templates.
+
 ### 25 May 2023
 I was supposed to just be cleaning up some lines on the Kana templates. What I ended up doing was recreating all of them. I also added a new folder structure. I also copied and pasted the 6 month planner PDF from my rM repo and added a two week template.
 
