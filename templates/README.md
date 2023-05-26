@@ -1,5 +1,8 @@
 # Read Me
 
+### 25 May 2023
+I was supposed to just be cleaning up some lines on the Kana templates. What I ended up doing was recreating all of them. I also added a new folder structure. I also copied and pasted the 6 month planner PDF from my rM repo and added a two week template.
+
 ### 07 May 2023
 I have added some Kana writing templates, on each one the squares have guide lines. `日本語 grid.png` is a horizontal grid; `原稿用紙.png` has a vertical grid; and `原稿用紙  w dots.png` has some dotted space on the left. The 'pinyin tianzi.png' has a horizontal grid with 3 very thin, lines above each row of grid. I don't remember where I got the pinyin tianzi template from, but it's been edited. The Japanese templates came from [Team Japanese](https://teamjapanese.com/japanese-writing-paper/) and have been edited as
 
